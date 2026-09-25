@@ -415,6 +415,21 @@
               <FileType>5</FileType>
               <FilePath>.\FSM.h</FilePath>
             </File>
+            <File>
+              <FileName>LED_SW.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\LED_SW.c</FilePath>
+            </File>
+            <File>
+              <FileName>LED_SW.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\LED_SW.h</FilePath>
+            </File>
+            <File>
+              <FileName>ModuleTest.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\ModuleTest.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>

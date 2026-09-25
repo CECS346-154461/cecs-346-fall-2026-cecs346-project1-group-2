@@ -11,7 +11,7 @@
 // project module header files. 
 
 // function prototypes
-void System_Init(void);
+/*void System_Init(void);
 
 int main(void){	
   System_Init();
@@ -22,3 +22,4 @@ int main(void){
 
 void System_Init(void) {
 }
+*/
