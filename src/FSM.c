@@ -26,8 +26,9 @@
 /*
     Input order:
 
-    PE2 PE1 PE0
-     S   W   P
+    PE2: South Sensor
+    PE1: West Sensor 
+    PE0: Pedestrian Sensor
 
     Table columns:
 
