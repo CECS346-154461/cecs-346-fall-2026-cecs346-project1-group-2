@@ -104,7 +104,7 @@ STyp FSM[9] = {
             GoS,
             GoP,
             GoS,
-            GoS
+            GoS  //111: All switches on, all lights cycle.
         }
     },
 
