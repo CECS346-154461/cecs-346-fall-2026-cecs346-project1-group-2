@@ -104,7 +104,7 @@ STyp FSM[9] = {
             GoS,
             GoP,
             GoS,
-            GoP
+            GoS
         }
     },
 
