@@ -14,7 +14,7 @@
 #define NVIC_ST_CTRL_COUNT      (0x00010000)  
 #define NVIC_ST_CTRL_CLK_SRC    (0x00000004)  
 #define NVIC_ST_CTRL_ENABLE     (0x00000001)  
-#define QUARTER_SEC (3999999)
+#define QUARTER_SEC (3999999) // Core clock is 16MHz x 0.25s (minus reload)
 
 
 void SysTick_Init(void){
