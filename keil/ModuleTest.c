@@ -1,4 +1,4 @@
-#include <stdint.h>
+/*#include <stdint.h>
 
 #include "LED_SW.h"
 #include "SysTick.h"
@@ -50,4 +50,4 @@ int main(void) {
 
         Wait_N_QuarterSec(4);
     }
-}
+} */

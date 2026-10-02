@@ -1,3 +1,11 @@
+// LED_SW.h
+// Course number: CECS346
+// Term: Fall 2026
+// Project number: 1
+// Project description: FSM Traffic Light System
+// Team #: 2
+// Team members: Daniel Ghobriel, Rylan Cirilo, Orgil Boldbaatar
+
 #ifndef LED_SW_H
 #define LED_SW_H
 
